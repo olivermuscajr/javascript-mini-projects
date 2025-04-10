@@ -1,0 +1,1 @@
+# javascript-mini-projects initgit add README.mdgit commit -m first commitgit branch -M maingit remote add origin https://github.com/olivermuscajr/javascript-mini-projects.gitgit push -u origin mainclear
